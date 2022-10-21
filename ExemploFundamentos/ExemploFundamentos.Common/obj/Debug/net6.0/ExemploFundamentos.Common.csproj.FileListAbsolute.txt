@@ -1,0 +1,12 @@
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.deps.json
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.AssemblyReference.cache
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfo.cs
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.dll
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\refint\ExemploFundamentos.Common.dll
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.pdb
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net6.0\ref\ExemploFundamentos.Common.dll

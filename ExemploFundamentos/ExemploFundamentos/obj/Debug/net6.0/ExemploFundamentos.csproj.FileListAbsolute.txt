@@ -1,0 +1,33 @@
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.exe
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.deps.json
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.runtimeconfig.json
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.dll
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.pdb
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.AssemblyReference.cache
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfoInputs.cache
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfo.cs
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.dll
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\obj\Debug\net6.0\refint\ExemploFundamentos.dll
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
+D:\Bibliotecas\Documentos\MeusProjetos\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.exe
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.deps.json
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.runtimeconfig.json
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.dll
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.pdb
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.AssemblyReference.cache
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfoInputs.cache
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfo.cs
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CopyComplete
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.dll
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\refint\ExemploFundamentos.dll
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
+D:\Bibliotecas\Área de Trabalho\Github\Estudos_C_Sharp\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll
